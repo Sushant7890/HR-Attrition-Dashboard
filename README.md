@@ -2,7 +2,7 @@
 ## Project Objective
 Results-driven Power BI Developer and Data Analyst with proven experience in building HR analytics dashboards and delivering actionable insights across employee attrition, engagement, and workforce planning. Seeking to contribute my expertise in data visualization, DAX, and data storytelling to an HR-focused organization, enabling data-driven decision-making and enhancing HR strategies through intuitive Power BI solutions.
 ## Dataset Used:
-- <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv">DataSet Details</a>
+- <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv">HR DataSet Details</a>
 
 ## Questions (KPIs)                                                                                                        
 -What is the current employee attrition rate?                                                                                      
@@ -17,7 +17,7 @@ Results-driven Power BI Developer and Data Analyst with proven experience in bui
 -What is the monthly or quarterly trend of attrition?                                                                          
 
 ## Dashboard Interaction
-- <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR%20Attrition%20Dashboard.pbix">DataSet Details</a>
+- <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR%20Attrition%20Dashboard.pbix">View Dashboard</a>
 ## Process                                                                              
 The dashboard follows a clear and logical analysis flow. It begins by providing overall HR KPIs, followed by breakdowns of employee demographics and departmental distributions, and then delves into attrition-specific insights. This approach allows for a comprehensive understanding of workforce composition and attrition patterns.                                       
 -Start with key HR metrics including attrition rate, total employee count, average salary, and gender ratio.                                                         
