@@ -4,7 +4,17 @@ Results-driven Power BI Developer and Data Analyst with proven experience in bui
 ## Dataset Used:
 - <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv">DataSet Details</a>
 
-## Questions (KPIs)
+## Questions (KPIs)                                                                                                        
+-What is the current employee attrition rate?                                                                                      
+-Which departments have the highest attrition rates?                                                                                    
+-Which job roles are most affected by attrition?                                                                                 
+-What is the average tenure of employees who left?                                                                                      
+-Is attrition higher among certain age groups or education levels?                                                                              
+-Are employees with low job satisfaction more likely to leave?                                                                                         
+-Which employment types or job levels have the highest turnover?                                                                                
+-What percentage of employees who left were high performers?                                                                                                                 
+-Is there a difference in attrition between married and single employees?                                                                                          
+-What is the monthly or quarterly trend of attrition?                                                                          
 
 ## Dashboard Interaction
 - <a href="https://github.com/Sushant7890/HR-Attrition-Dashboard/blob/main/HR%20Attrition%20Dashboard.pbix">DataSet Details</a>
